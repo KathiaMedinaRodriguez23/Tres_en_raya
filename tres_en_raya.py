@@ -10,7 +10,7 @@ Características:
   gana quien tenga el menor tiempo promedio por jugada
   (jugador más rápido = más eficiente).
 
-Autor: Proyecto académico - Juegos Adversariales
+Autor: Kathia Medina Rodriguez
 """
 
 import tkinter as tk
